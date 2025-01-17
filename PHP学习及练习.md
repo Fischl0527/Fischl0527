@@ -1,5 +1,3 @@
-** PHP学习及练习**
-
 # 一、PHP开发入门
 ## 1.PHP概述
 PHP最初是由 Rasmus Lerdorf于1994年为了维护个人网页而编写的一个简单程序。这个程序用来显示Rasmus Lerdorf的个人履历以及统计网页流量，因此最初称为个人主页(Personal Home Page)。后来受到GNU的影响，它更名为PHP(Hypertext Preprocessor，超文本预处理器）。
