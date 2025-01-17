@@ -1,6 +1,4 @@
 本次复现题目为**upload、md5绕过欸**、**Aura 酱的礼物**
-<u><font style="color:rgb(0,0,255);"></font></u>[<u>https://www.bilibili.com/video/BV19wWEeoE1o/share_source=copy_web&vd_source=26a21a8ac3f19fd0d663fb58dee41081</u>](https://www.bilibili.com/video/BV19wWEeoE1o/?share_source=copy_web&vd_source=26a21a8ac3f19fd0d663fb58dee41081)
-
 # 一、upload
 ![](https://cdn.nlark.com/yuque/0/2024/png/50616406/1731851710813-826e7242-c871-4115-9469-bb417e479693.png)![](https://cdn.nlark.com/yuque/0/2024/png/50616406/1731851710890-95965788-2a59-466e-a96d-06c26625475a.png)
 
@@ -302,6 +300,8 @@ data://text/plain;base64,xxxxxxxx           其中 xxxxxxx 会被 Base64 解码�
 ![](https://cdn.nlark.com/yuque/0/2024/png/50616406/1732356612379-40b36c3b-8644-4561-8b0a-67570043caa1.png)
 
 可以发现”请去博客里面写下感想哦~"已经没有了说明已经绕过成功了
+
+<u><font style="color:rgb(0,0,255);"></font></u>[<u>https://www.bilibili.com/video/BV19wWEeoE1o/share_source=copy_web&vd_source=26a21a8ac3f19fd0d663fb58dee41081</u>](https://www.bilibili.com/video/BV19wWEeoE1o/?share_source=copy_web&vd_source=26a21a8ac3f19fd0d663fb58dee41081)
 
 
 
