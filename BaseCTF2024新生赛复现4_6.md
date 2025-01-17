@@ -301,8 +301,6 @@ data://text/plain;base64,xxxxxxxx           其中 xxxxxxx 会被 Base64 解码�
 
 可以发现”请去博客里面写下感想哦~"已经没有了说明已经绕过成功了
 
-<u><font style="color:rgb(0,0,255);"></font></u>[<u>https://www.bilibili.com/video/BV19wWEeoE1o/share_source=copy_web&vd_source=26a21a8ac3f19fd0d663fb58dee41081</u>](https://www.bilibili.com/video/BV19wWEeoE1o/?share_source=copy_web&vd_source=26a21a8ac3f19fd0d663fb58dee41081)
-
 
 
 最后就是gift，include函数会解析文件里的php标签，而flag写在了注释的位置，所以这里需要将其伪协议和过滤器来进行 base64 编码后输出
@@ -314,6 +312,9 @@ data://text/plain;base64,xxxxxxxx           其中 xxxxxxx 会被 Base64 解码�
 最后用base64解码，就解出来了
 
 ![](https://cdn.nlark.com/yuque/0/2024/png/50616406/1732357784745-51abd99d-fe2d-4c7e-b797-6f80241d3956.png)![](https://cdn.nlark.com/yuque/0/2024/png/50616406/1732357784743-ac94cca3-544a-41c3-80cc-ff70e71a48eb.png)
+
+
+参考视频<u><font style="color:rgb(0,0,255);"></font></u>[<u>https://www.bilibili.com/video/BV19wWEeoE1o/share_source=copy_web&vd_source=26a21a8ac3f19fd0d663fb58dee41081</u>](https://www.bilibili.com/video/BV19wWEeoE1o/?share_source=copy_web&vd_source=26a21a8ac3f19fd0d663fb58dee41081)
 
 
 
