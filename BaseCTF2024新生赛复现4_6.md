@@ -1,7 +1,4 @@
 本次复现题目为**upload、md5绕过欸**、**Aura 酱的礼物**
-
-复现这些题目时我是跟着这个视频一步一步来的:
-
 <u><font style="color:rgb(0,0,255);"></font></u>[<u>https://www.bilibili.com/video/BV19wWEeoE1o/share_source=copy_web&vd_source=26a21a8ac3f19fd0d663fb58dee41081</u>](https://www.bilibili.com/video/BV19wWEeoE1o/?share_source=copy_web&vd_source=26a21a8ac3f19fd0d663fb58dee41081)
 
 # 一、upload
