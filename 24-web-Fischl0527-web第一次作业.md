@@ -627,8 +627,7 @@ sudo systemctl disable ufw -y
 
 4. <font style="color:#000000;">linux操作笔记ls ：  
 </font><font style="color:#000000;">ls ：列出当前目录的文件和文件夹。  
-</font><font style="color:#000000;">ls -l ：以详细列表形式显示。</font>
-
+</font><font style="color:#000000;">ls -l ：以详细列表形式显示。
 <font style="color:#000000;">ls -a ：显示所有文件，包括隐藏文件。  
 </font><font style="color:#000000;">cd ：切换目录  
 </font><font style="color:#000000;">cd 目录名 ：进⼊指定目录。  
